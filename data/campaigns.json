@@ -135,5 +135,15 @@
       { "de": "Spider-Woman",    "en": "Spider-Woman"    }
     ],
     "logItems": []
+  },
+  {
+    "type": "fne",
+    "nameDe": "Fear No Evil",
+    "nameEn": "Fear No Evil",
+    "scenarios": [
+      { "de": "Bullseye", "en": "Bullseye" },
+      { "de": "Kingpin",  "en": "Kingpin"  }
+    ],
+    "logItems": []
   }
 ]
